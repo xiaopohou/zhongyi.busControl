@@ -1,0 +1,5 @@
+D:\work\Area_Git\zhongyiBus\zhongyi.busControl\zhongyi.BusEvent\zhongyi.Message\Entity\bin\Debug\Entity.dll
+D:\work\Area_Git\zhongyiBus\zhongyi.busControl\zhongyi.BusEvent\zhongyi.Message\Entity\bin\Debug\Entity.pdb
+D:\work\Area_Git\zhongyiBus\zhongyi.busControl\zhongyi.BusEvent\zhongyi.Message\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+D:\work\Area_Git\zhongyiBus\zhongyi.busControl\zhongyi.BusEvent\zhongyi.Message\Entity\obj\Debug\Entity.dll
+D:\work\Area_Git\zhongyiBus\zhongyi.busControl\zhongyi.BusEvent\zhongyi.Message\Entity\obj\Debug\Entity.pdb

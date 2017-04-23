@@ -1,0 +1,6 @@
+D:\work\Area_Git\zhongyiBus\zhongyi.busControl\zhongyi.BusEvent\zhongyi.Server\Server\bin\Debug\Server.exe.config
+D:\work\Area_Git\zhongyiBus\zhongyi.busControl\zhongyi.BusEvent\zhongyi.Server\Server\bin\Debug\Server.exe
+D:\work\Area_Git\zhongyiBus\zhongyi.busControl\zhongyi.BusEvent\zhongyi.Server\Server\bin\Debug\Server.pdb
+D:\work\Area_Git\zhongyiBus\zhongyi.busControl\zhongyi.BusEvent\zhongyi.Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\work\Area_Git\zhongyiBus\zhongyi.busControl\zhongyi.BusEvent\zhongyi.Server\Server\obj\Debug\Server.exe
+D:\work\Area_Git\zhongyiBus\zhongyi.busControl\zhongyi.BusEvent\zhongyi.Server\Server\obj\Debug\Server.pdb
